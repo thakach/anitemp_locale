@@ -1,0 +1,8 @@
+{
+    "setting": "设置",
+    "setting_theme_mode": "主题模式",
+    "setting_theme_mode_light": "明亮",
+    "setting_theme_mode_dark": "暗黑",
+    "setting_theme_mode_system": "使用系统的设置",
+    "setting_language": "语言"
+}

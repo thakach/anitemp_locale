@@ -1,3 +1,11 @@
 {
-    
+    "setting": "Setting",
+    "@setting": {
+        "description": "Describe a word that allowing user changing preference."
+    },
+    "setting_theme_mode": "Theme mode",
+    "setting_theme_mode_light": "Light",
+    "setting_theme_mode_dark": "Dark",
+    "setting_theme_mode_system": "Use system's preference",
+    "setting_language": "Language"
 }
